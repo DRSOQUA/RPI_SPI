@@ -6,4 +6,9 @@ https://github.com/raspberrypi/documentation/blob/develop/documentation/asciidoc
 
 ## Planned:
 
+- [ ] Integrate with manualTransmission-complete
+- [x] Verify signal on both ends of wire
+- [ ] Verify 8b10b
+
+
 ![alt text](Capture2.PNG)
